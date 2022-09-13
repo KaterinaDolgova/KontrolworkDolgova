@@ -1,0 +1,16 @@
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\bin\Debug\net6.0\programm.csv.exe
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\bin\Debug\net6.0\programm.csv.deps.json
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\bin\Debug\net6.0\programm.csv.runtimeconfig.json
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\bin\Debug\net6.0\programm.csv.dll
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\bin\Debug\net6.0\ref\programm.csv.dll
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\bin\Debug\net6.0\programm.csv.pdb
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.GlobalUsings.g.cs
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.csproj.AssemblyReference.cache
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.AssemblyInfoInputs.cache
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.AssemblyInfo.cs
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.csproj.CoreCompileInputs.cache
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.dll
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\ref\programm.csv.dll
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.pdb
+C:\GB\KonWorkDolgova\KontrolworkDolgova\programm.csv\obj\Debug\net6.0\programm.csv.genruntimeconfig.cache
