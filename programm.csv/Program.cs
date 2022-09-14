@@ -7,7 +7,7 @@
     "Eeee",
     "FffffF"
 };
-Console.WriteLine("array [" + string.Join(",", array) + "]");
+Console.WriteLine("исходный массив [" + string.Join(",", array) + "]");
 Random Rand = new Random();
 int size =  Rand.Next(0,4);
 string[] ArrayResalt = new string[size];
@@ -16,4 +16,4 @@ for (int i = 0; i <size; i++)
         ArrayResalt[i] = array[j];
     }
 
-Console.WriteLine("new array [" + string.Join(",", ArrayResalt) + "]");
+Console.WriteLine("новый массив[" + string.Join(",", ArrayResalt) + "]");
